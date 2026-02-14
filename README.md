@@ -1,8 +1,11 @@
 # ZScript Asscotiated File-Extensions
 
 .zs : ZScript Source File.
+<br>
 .dh : zeD script Header File.
+<br>
 .dsx : zeD Script XML File.
+<br>
 .zsp : ZScript Packages File.
 
 ---
